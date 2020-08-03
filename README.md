@@ -3,4 +3,4 @@ Makenna Smith
 Sophomore
 Chemical Engineering
 155N
-GitGub Website
+GitGub Website - for everything
